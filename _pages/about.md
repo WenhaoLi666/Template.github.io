@@ -12,4 +12,4 @@ I am currently a postdoctoral fellow at the Rotman School of Management, the Uni
 
 My research mainly focuses on data-driven decision making and its application in healthcare. For the theoretical part, I am interested in designing algorithms for online and offine statistical learning problems. For the application part, I am interested in finding insightful phenomena through data and connecting them to the OM theory.
 
-More information about me can be found in my CV. [here] (/files/WenhaoLi_CV_Postdoc.pdf)
+More information about me can be found in my CV. [here](/files/WenhaoLi_CV_Postdoc.pdf)
