@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Wenhao Li"
+title                    : "Dr. Wenhao Li（李文浩）"
 title_separator          : "-"
-name                     : &name "Dr. Wenhao Li（李文浩）"
+name                     : &name "Dr. Wenhao Li"
 description              : &description "Postdoctoral Fellow, Rotman School of Management, University of Toronto"
 url                      : "https://WenhaoLi666.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
