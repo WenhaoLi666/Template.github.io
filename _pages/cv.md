@@ -19,7 +19,6 @@ Education
 
 Work experience
 ======
-* 2021-Present: Postdoctoral Fellow
-  * Rotman School of Management, University of Toronto
+* 2021-Present: Postdoctoral Fellow, Rotman School of Management, University of Toronto
   * Academic Area: Operations Management and Statistics
   * Supervisor: Prof. Ningyuan Chen
