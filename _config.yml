@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Wenhao Li"
 title_separator          : "-"
 name                     : &name "Dr. Wenhao Li"
-description              : &description "Postdoctoral Fellow at Rotman School of Management, University of Toronto"
+description              : &description "Postdoctoral Fellow, Rotman School of Management, University of Toronto"
 url                      : https://WenhaoLi666.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WenhaoLi666.github.io"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Wenhao Li"
-  avatar           : "profile.png"
-  bio              : "Postdoctoral Fellow at Rotman School of Management, University of Toronto"
+  avatar           : "profile.jpg"
+  bio              : "Postdoctoral Fellow, Rotman School of Management, University of Toronto"
   location         : "Toronto, Ontario, Canada"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=89CHOGYAAAAJ&hl=en&oi=ao"
-  email            :
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=89CHOGYAAAAJ&hl=en"
+  email            : "wwenhao.li@mail.utoronto.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "WenhaoLi666"
+  github           : # "WenhaoLi666"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         :  "www.linkedin.com/in/wenhaoli666"
   orcid            : "https://orcid.org/0000-0003-1352-2775"
   pinterest        :
   soundcloud       :
