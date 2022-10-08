@@ -15,7 +15,7 @@ Education
 ======
 * B.Eng. in Control Science and Engineering, Zhejiang University, 2016
 * Ph.D in Management Sciences, College of Business, City University of Hong Kong, 2021
- * Supervisors: Prof. Zhankun Sun and Prof. Jeff Hong
+  * Supervisors: Prof. Zhankun Sun and Prof. Jeff Hong
 
 Work experience
 ======
