@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-More information about me can be found in my CV. [here] (/files/WenhaoLi_CV_Postdoc.pdf)
+More information about me can be found in my CV. [here](/files/WenhaoLi_CV_Postdoc.pdf)
 
 Education
 ======
