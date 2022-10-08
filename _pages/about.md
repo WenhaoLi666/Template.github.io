@@ -8,12 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral fellow at the Rotman School of Management, the University of Toronto. I
-got my PhD degree from the department of Management Sciences at the City University of
-Hong Kong. I am fortunate to collaborate with Prof. Ningyuan Chen (University of Toronto), Prof. Zhankun Sun (City University of
-Hong Kong) and Prof. Jeff Hong (Fudan University).
+I am currently a postdoctoral fellow at the Rotman School of Management, the University of Toronto. I got my PhD degree from the department of Management Sciences at the City University of Hong Kong. I am fortunate to collaborate with Prof. Ningyuan Chen (University of Toronto), Prof. Zhankun Sun (City University of Hong Kong) and Prof. Jeff Hong (Fudan University).
 
-My research mainly focuses on data-driven decision making and its application in health-
-care. For the theoretical part, I am interested in designing algorithms for online and offine
-statistical learning problems. For the application part, I am interested in finding insightful
-phenomena through data and connecting them to the OM theory.
+My research mainly focuses on data-driven decision making and its application in healthcare. For the theoretical part, I am interested in designing algorithms for online and offine statistical learning problems. For the application part, I am interested in finding insightful phenomena through data and connecting them to the OM theory.
